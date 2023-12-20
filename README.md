@@ -10,9 +10,18 @@
 
 # 結果
 
-![第2回の結果](???.png)
+![第2回の結果](https://github.com/tpu-game-2023/PGWS4/assets/90616260/186b46d2-a11f-4952-af67-739f33d4ff41)
 
-![第3回の結果](???.png)
+cylinderの周りを回転するHello world
+![3回目の結果(1)](https://github.com/funoji/SoundGameJam/assets/90616260/91e9c0af-0da7-49a7-8e2b-89cfb5050a35)
+
+板がいろんな光り方をするヤツ
+![3回目の結果(2)](https://github.com/funoji/SoundGameJam/assets/90616260/9828d994-d167-4d29-807d-8631919bf803)
+
+タイルの溝に沿って光るヤツ
+![3回目の結果(3)](https://github.com/funoji/SoundGameJam/assets/90616260/e9381418-8896-408b-a238-f3e808c0e75e)
+
+
 
 ![第4回の結果](???.png)
 
